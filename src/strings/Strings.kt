@@ -10,7 +10,6 @@ fun main() {
     println(s1)
     println(s2)
     stringTemplates()
-    comparisonOfStrings()
 }
 
 fun stringTemplates(){
