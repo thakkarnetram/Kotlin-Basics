@@ -1,4 +1,4 @@
-package strings
+package datatypes
 
 fun main() {
 //    values in var can be re-assigned
