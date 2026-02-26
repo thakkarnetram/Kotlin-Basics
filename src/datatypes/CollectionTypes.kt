@@ -35,4 +35,8 @@ fun main(){
     for (routes in indiaRoutes) {
         println(routes)
     }
+    // checks if map key exists returns boolean value
+    println("Delhi" in indiaRoutes)
+    println("Nepal" in indiaRoutes)
+
 }
